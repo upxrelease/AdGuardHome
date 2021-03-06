@@ -1,0 +1,2 @@
+# AdGuardHome
+upx for AdGuardHome
